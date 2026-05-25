@@ -64,7 +64,7 @@ p {
 }
 
 button {
-    background: #0c7cd5;
+    background: #35ee07;
     color: #fff;
     border: none;
     padding: 12px 22px;
@@ -74,11 +74,11 @@ button {
 }
 
 button:hover {
-    background: #0666b6;
+    background: #267611;
 }
 
 button.delete-button {
-    background: #e64545;
+    background: #ba0606;
     padding: 8px 14px;
 }
 
@@ -115,7 +115,7 @@ table {
 }
 
 thead {
-    background: #f1f7ff;
+    background: #bcbcbc;
 }
 
 th,
@@ -127,7 +127,7 @@ td {
 
 th {
     font-weight: 700;
-    color: #1f3454;
+    color: #052a62;
 }
 
 tbody tr:hover {
